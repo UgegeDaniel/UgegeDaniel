@@ -1,16 +1,38 @@
-### Hi there 👋
+## Hi I'm Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<!--
-**UgegeDaniel/UgegeDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ugege Daniel a Fromt end Web Developer. I Spend most of time coding outstanding projects.
 
-Here are some ideas to get you started:
+:mailbox: Reach me out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Badge](https://img.shields.io/badge/-@U_Danny-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ugege_daniel)](https://twitter.com/ugege_daniel) [![Linkedin Badge](https://img.shields.io/badge/-UgegeDaniel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ugege/) [![Mail Badge](https://img.shields.io/badge/-UgegeDaniel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ugege62@gmail.com)
+
+- 🤔 I’m currently looking for a job in React front end web development.
+- 📫 How to reach me: ugege62@gmail.com.
+- ⚡ Fun fact: I play chess and sometimes play basketball 🏀
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+
+<br />
+<br />
+
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+I love learning new things and putting out projects that put to practice what I have learnt 
+
+
+#### Github Stats
+
+![UgegeDaniel's github stats](https://github-readme-stats.vercel.app/api?username=UgegeDaniel&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
