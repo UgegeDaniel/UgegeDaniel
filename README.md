@@ -1,6 +1,6 @@
 ## Hi I'm Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Ugege Daniel a Front end Web Developer. I Spend most of time coding outstanding projects.
+I'm Ugege Daniel a motivated Front end Web Developer who brings a solution and creative driven-mindset to every team and project. I Spend most of time coding outstanding projects. I am passionate about writing clean code that is reusable and follows the DRY principle. I design interfaces that incorporate accessibility and user-friendliness. I approach every project with the priorities of simplicity and functionality.
 
 :mailbox: Reach me out!
 
