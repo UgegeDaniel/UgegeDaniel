@@ -1,7 +1,6 @@
 ## Hi I'm Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Ugege Daniel a motivated Front end Web Developer who brings a solution and creative driven-mindset to every team and project. I Spend most of time coding outstanding projects. I am passionate about writing clean code that is reusable and follows the DRY principle. I design interfaces that incorporate accessibility and user-friendliness. I approach every project with the priorities of simplicity and functionality.
-
+I'm Ugege Daniel a motivated Front end Web Developer. I spend most of my time coding outstanding projects centred around reusability of simple and functional code resulting in user friendly UI's
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@U_Danny-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ugege_daniel)](https://twitter.com/ugege_daniel) [![Linkedin Badge](https://img.shields.io/badge/-UgegeDaniel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ugege-50a499227) [![Mail Badge](https://img.shields.io/badge/-UgegeDaniel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ugege62@gmail.com)
