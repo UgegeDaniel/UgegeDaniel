@@ -9,7 +9,7 @@ I'm Ugege Daniel a motivated Front end Web Developer. I spend most of my time co
 - 🤔 I’m currently looking for a job in React front end web development.
 - 📫 How to reach me: ugege62@gmail.com.
 - ⚡ Fun fact: I play chess and sometimes play basketball 🏀
-- 👉 -[![My Portfolio](https://portfolio-one-chi-75.vercel.app)]
+- 👉 [MY PORTFOLIO](https://portfolio-one-chi-75.vercel.app)
 
 
 #### Top Technologies
