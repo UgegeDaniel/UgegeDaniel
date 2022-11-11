@@ -2,7 +2,7 @@
 
 I'm Ugege Daniel a motivated Front end Web Developer. I spend most of my time coding outstanding projects centred around reusability of simple and functional code resulting in user friendly UI's
 
-- 👉 [MY PORTFOLIO](https://portfolio-one-chi-75.vercel.app)
+- 👉 [MY PORTFOLIO](https://portfolio-one-chi-75.vercel.app)<br/>
 :mailbox: Reach out to me
 
 
