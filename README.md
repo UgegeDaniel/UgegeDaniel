@@ -2,8 +2,9 @@
 
 I'm Ugege Daniel a motivated Front end Web Developer. I spend most of my time coding outstanding projects centred around reusability of simple and functional code resulting in user friendly UI's
 
-:mailbox: Reach out to me
 - 👉 [MY PORTFOLIO](https://portfolio-one-chi-75.vercel.app)
+:mailbox: Reach out to me
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@U_Danny-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ugege_daniel)](https://twitter.com/ugege_daniel) [![Linkedin Badge](https://img.shields.io/badge/-UgegeDaniel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ugege-50a499227) [![Mail Badge](https://img.shields.io/badge/-UgegeDaniel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ugege62@gmail.com)
 
