@@ -9,8 +9,8 @@
         <h3>Hello👋🏾</h3>
         👀 &nbsp;I love to build useful projects, make life easier and fun with code.
         <br/>
-        🚀 &nbsp;I love contributing to Opensource Projects
-        <br/>
+        <!-- 🚀 &nbsp;I love contributing to Opensource Projects -->
+        <!-- <br/> -->
         🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in <a href="https://portfolio-one-chi-75.vercel.app/">my portfolio</a>
         <br />
         <br/>
