@@ -27,9 +27,6 @@
           <img src="https://img.shields.io/twitter/follow/ugege_daniel?color=blue&label=u_danny&style=social" alt="Twitter Follow Badge"/></a>
        </p>
     </td>
-    <td>
-      <!-- <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a> -->
-    </td>
   </tr>
 </table>
 
