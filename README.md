@@ -2,9 +2,7 @@
 
 ## Wonderful Intro
 
-<table>
-  <tr>
-    <td valign="center">
+<div>
       <a href="https://portfolio-one-chi-75.vercel.app/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       <p>
@@ -26,9 +24,7 @@
         <a href="https://twitter.com/ugege_daniel">
           <img src="https://img.shields.io/twitter/follow/ugege_daniel?color=blue&label=u_danny&style=social" alt="Twitter Follow Badge"/></a>
        </p>
-    </td>
-  </tr>
-</table>
+</div>
 
 ## Contribute to My Projects👇🏽
 <table>
