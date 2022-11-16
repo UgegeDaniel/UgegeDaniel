@@ -1,4 +1,4 @@
-[![profile Header](https://user-images.githubusercontent.com/78784850/185071059-bcedf7d4-3038-404e-ad0f-4837bb2120d0.png)](https://dunsin.vercel.app/)
+[![profile Header](https://github.com/UgegeDaniel/UgegeDaniel/blob/main/1668237975669.jpg)](https://dunsin.vercel.app/)
 
 ## Wonderful Intro
 
