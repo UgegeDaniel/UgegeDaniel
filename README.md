@@ -6,7 +6,7 @@
       <a href="https://portfolio-one-chi-75.vercel.app/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       <p>
-        <h3>Hi There👋🏾 My name is Ugege Daniel</h3>
+        <h3>Hi 👋🏾 My name is Ugege Daniel</h3>
         👀 &nbsp;I love to build useful projects, make life easier and fun with code.
         <br/>
         <!-- 🚀 &nbsp;I love contributing to Opensource Projects -->
