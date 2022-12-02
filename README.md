@@ -1,9 +1,9 @@
-<a href="https://portfolio-one-chi-75.vercel.app/" target="_blank"><img src="https://github.com/UgegeDaniel/UgegeDaniel/blob/main/1668237975669.jpg" width="100%" alt="backdrop image"/></a>
+<a href="https://new-portfolio-six-tan.vercel.app/" target="_blank"><img src="https://github.com/UgegeDaniel/UgegeDaniel/blob/main/1668237975669.jpg" width="100%" alt="backdrop image"/></a>
 
 ## Wonderful Intro
 
 <div>
-      <a href="https://portfolio-one-chi-75.vercel.app/">
+      <a href="https://new-portfolio-six-tan.vercel.app/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       <p>
         <h3>Hi There 👋🏾 My name is Ugege Daniel </h3>
@@ -11,7 +11,7 @@
         <br/>
         <!-- 🚀 &nbsp;I love contributing to Opensource Projects -->
         <!-- <br/> -->
-        🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in <a href="https://portfolio-one-chi-75.vercel.app/">my portfolio</a>
+        🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in <a href="https://new-portfolio-six-tan.vercel.app/">my portfolio</a>
         <br />
         <br/>
         <br />
